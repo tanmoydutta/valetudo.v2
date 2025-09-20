@@ -17,8 +17,11 @@ The enclosure is now fitted with two large 12x3 mm neodymium magnets for better 
 ![alt text](https://github.com/tanmoydutta/valetudo.v2/blob/main/images/Enclosure_Rear.jpg?raw=true)
 
 This project is certified as Open Source Hardware - 
-![alt text](https://github.com/tanmoydutta/valetudo.v2/blob/main/images/certification-mark-NL000034-wide.png?raw=true)
-
+<p align="center">
+  <a href="https://certification.oshwa.org/nl000034.html">
+    <img src="/images/certification-mark-NL000034-wide.png?raw=true" alt="OSHWA" width="350" title="OSHWA Certification">
+  </a>
+</p>
 
 License information on the hardware and software and documentation is as follows -
 
