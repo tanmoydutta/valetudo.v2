@@ -16,6 +16,10 @@ The body and the lid of the enclosure are embedded with magnetic snap-on feature
 The enclosure is now fitted with two large 12x3 mm neodymium magnets for better strength to remain stuck with a metallic surface like a refrigerator or a whiteboard.
 ![alt text](https://github.com/tanmoydutta/valetudo.v2/blob/main/images/Enclosure_Rear.jpg?raw=true)
 
+This project is certified as Open Source Hardware - 
+![alt text](https://github.com/tanmoydutta/valetudo.v2/blob/main/images/certification-mark-NL000034-wide.png?raw=true)
+
+
 License information on the hardware and software and documentation is as follows -
 
 ![alt text](https://github.com/tanmoydutta/valetudo.v2/blob/main/images/oshw_license.png?raw=true)
